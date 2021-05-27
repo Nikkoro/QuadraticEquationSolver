@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quadratic Equation Solver</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="solve">Solve</string>
+    <string name="textview">TextView</string>
+    <string name="error">a cant be equal 0</string>
+    <string name="deltas0">There are no roots</string>
+    <string name="deltaeq0">x = %.2f</string>
+    <string name="deltab0x1">x1 = %1$.2f | x2 = %2$.2f </string>
+
+</resources>
